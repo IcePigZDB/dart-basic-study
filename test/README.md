@@ -1,6 +1,22 @@
+# Anchor 1
+Anchor：<a id="anchor1">Anchor1</a>  
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+Jump：<a href="#anchor1">Link to Anchor1</a>
 
-vscode 
-锚点：<a id="anchor1">Anchor1</a>  
+# Anchor 2
+Anchor：<a name= "anchor2">Anchor2</a>
 # 1
 # 1
 # 1
@@ -10,9 +26,14 @@ vscode
 # 1
 # 1
 # 1
-跳转：<a href="#anchor1">Link to Anchor1</a>
+# 1
+# 1
+# 1
+# 1
+Jump：<a href="#anchor2">Link to Anchor2</a>
 
-锚点：<span id= "anchor2">Anchor2</span>
+# Anchor 3
+Anchor：<span id="anchor3">Anchor1</span>  
 # 1
 # 1
 # 1
@@ -22,9 +43,14 @@ vscode
 # 1
 # 1
 # 1
-跳转：<a href="#anchor2">Link to Anchor2</a>
+# 1
+# 1
+# 1
+# 1
+Jump：<a href="#anchor3">Link to Anchor3</a>
 
-锚点：<a id="anchor3">Anchor3</a>
+# Anchor 4
+Anchor：<span name= "anchor4">Anchor4</span>
 # 1
 # 1
 # 1
@@ -34,11 +60,14 @@ vscode
 # 1
 # 1
 # 1
-跳转：[Link to Anchor3](#anchor3)
+# 1
+# 1
+# 1
+# 1
+Jump：<a href="#anchor4">Link to Anchor2</a>
 
-# Typora
-## Anchor6
-锚点：<a id="anchor4">Anchor4</a> 
+# Anchor 5
+Anchor：<a id="anchor5">Anchor5</a>
 # 1
 # 1
 # 1
@@ -48,9 +77,14 @@ vscode
 # 1
 # 1
 # 1
-跳转：<a href="#anchor4">Link to Anchor4</a>
+# 1
+# 1
+# 1
+# 1
+Jump：[Link to Anchor5](#anchor5)
 
-锚点：<a name="anchor5">Anchor5</a> 
+# Anchor 6
+Anchor：<a name="anchor6">Anchor6</a>
 # 1
 # 1
 # 1
@@ -60,19 +94,27 @@ vscode
 # 1
 # 1
 # 1
-跳转：<a href="#anchor5">Link to Anchor5</a>
-
-
-
-
-
-
-
-
-
-
+# 1
+# 1
+# 1
+# 1
+Jump：[Link to Anchor6](#anchor6)
 
 
 
-锚点：标题形式
-跳转：[Link to Anchor6](#Anchor6)
+# Anchor7
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+# 1
+Anchor： Header
+Jump：[Link to Anchor7](#Anchor7)
