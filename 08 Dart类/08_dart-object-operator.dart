@@ -18,8 +18,7 @@ class Person {
 
 void main(List<String> args) {
   Person p = new Person('诸葛亮', 67);
-
-  // ? 条件操作
+  // ? 条件操作 如果p is null就不操作。
   p?.printInfo();
 
   print('————————————————————————————————————');

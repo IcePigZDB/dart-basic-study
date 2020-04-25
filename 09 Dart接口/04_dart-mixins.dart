@@ -44,7 +44,7 @@ class Person {
     print('class Person run');
   }
 }
-
+// C mixins A，B就具有了A和B的所有特性。
 class C with A, B {}
 
 class C2 extends Person with B, A {
